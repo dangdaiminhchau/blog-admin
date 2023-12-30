@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://customblog.niceflower-900e7132.eastasia.azurecontainerapps.io"
+  status = 200
